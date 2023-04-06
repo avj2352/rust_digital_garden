@@ -6,7 +6,17 @@
 
 A CLI tool for the creation & maintenance of Digital Garden
 
-## write
+## Commands
+
+### Setting the garden path
+
+```shell
+GARDEN_PATH=~/github/my-digital-garden garden write
+garden -p ~/github/my-digital-garden write
+garden --garden_path ~/github/my-digital-garden write
+```
+
+### write
 
 ```shell
 garden write
