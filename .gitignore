@@ -1,0 +1,8 @@
+# folders
+/target
+/bin
+
+# files
+.DS_Store
+**/.DS_Store
+**/**/.DS_Store
